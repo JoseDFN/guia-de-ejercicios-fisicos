@@ -13,3 +13,6 @@ El entrenamiento funcional se enfoca en mejorar la fuerza, equilibrio y coordina
 2. Realiza circuitos con ejercicios como sentadillas, zancadas, y levantamientos con peso moderado.
 3. Repite 2-3 rondas de 8-12 repeticiones por ejercicio.
 
+## Consejos
+- Adapta los ejercicios a tus necesidades específicas.
+- Trabaja con movimientos funcionales y variados.
