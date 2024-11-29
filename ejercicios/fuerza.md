@@ -13,3 +13,6 @@ Los ejercicios de fuerza están diseñados para aumentar la masa muscular, la re
 2. Ejecuta 2-3 series de 8-12 repeticiones con pesas, máquinas o peso corporal.
 3. Descansa entre series de 60 a 90 segundos.
 
+## Consejos
+- Mantén una técnica adecuada para evitar lesiones.
+- Incrementa el peso de manera progresiva.
