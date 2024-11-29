@@ -13,3 +13,6 @@ Los ejercicios de flexibilidad ayudan a mantener o mejorar el rango de movimient
 2. Haz estiramientos estáticos o dinámicos durante 15-20 minutos.
 3. Mantén cada posición de estiramiento durante 15-30 segundos.
 
+## Consejos
+- Realiza los movimientos de manera controlada.
+- Nunca estires hasta sentir dolor.
